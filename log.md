@@ -2,7 +2,7 @@
 
 ### Day 0: June 21, 2021
 
-**Today's Progress**: Installed Ruby and readed the guide from documentation. Also, i did a introduction into numbers and letters.
+**Today's Progress**: Installed Ruby and readed the guide from documentation. Also, i did a introduction into numbers, letters and printing.
 
 **Thoughts:** I think it's gonna be a hard and pleasure journey. I hope to continue with focus, responsability and struggling everyday for my personal evolution. Ruby sounds sweety =)
 
