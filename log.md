@@ -19,7 +19,7 @@
 
 ### Day 03: June 23, 2021
 
-**Today's Progress**: As yesterday, i had a lot of free time today so i spent almost the entire day studying Ruby. I learned more about methods, played with classes on Ruby and its vars, hashs, blocs, procs and practiced answering exercises.
+**Today's Progress**: As yesterday, i had a lot of free time today so i spent almost the entire day studying Ruby. I learned more about methods, played with classes on Ruby and its vars, hashs and practiced answering exercises.
 
 **Thoughts:** Well, i think i was right. Ruby is sweety. I'm impress how fast i like this language. Even the "hard" things to understand i got it quickly due to the syntax and how i feel good when i'm into coding. What agony delight shall we inflict? --Thresh
 
