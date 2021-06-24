@@ -4,7 +4,7 @@ The challenge to code at least one hour every day for the next 100 days.
 
 Challenge being fulfilled by: João Guilherme
 
-![progress](https://progress-bar.dev/3/ "progress")
+![progress](https://progress-bar.dev/4/ "progress")
 
 * [Log - My path](log.md)
 
