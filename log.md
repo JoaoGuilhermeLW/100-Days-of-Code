@@ -24,3 +24,7 @@
 **Thoughts:** Well, i think i was right. Ruby is sweety. I'm impress how fast i like this language. Even the "hard" things to understand i got it quickly due to the syntax and how i feel good when i'm into coding. What agony delight shall we inflict? --Thresh
 
 ### Day 04: June 24, 2021
+
+`Today's Progress`: I learned about procs (interesting feature btw), blocs and how to handle files in Ruby. I did some exercises to pratice.
+
+`Thoughts:` It's coming... I already started racking my brain with this exercises. I know i know, no pain no gain. So, let's keep going.
