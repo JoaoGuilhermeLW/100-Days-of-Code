@@ -13,7 +13,7 @@
 
 ### Day 02: June 22, 2021
 
-**Today's Progress**: I played with variables, numbers, some string methods, conditional statements and flux control. I did a lot of exercises too.
+``Today's Progress``: I played with variables, numbers, some string methods, conditional statements and flux control. I did a lot of exercises too.
 
 **Thoughts:** Today i had a lot of free time so i could spend it diving into Ruby. It was very interesting due to fact that the more i read, the more i wanted more =O
 
