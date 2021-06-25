@@ -28,3 +28,9 @@
 `Today's Progress`: I learned about procs (interesting feature btw), blocs and how to handle files in Ruby. I did some exercises to pratice.
 
 `Thoughts:` It's coming... I already started racking my brain with this exercises. I know i know, no pain no gain. So, let's keep going.
+
+### Day 05: June 25, 2021
+
+`Today's Progress`:
+
+`Thoughts`: 
