@@ -31,6 +31,6 @@
 
 ### Day 05: June 25, 2021
 
-`Today's Progress`:
+`Today's Progress`: I read and understand about how to manipulate CSV files. 
 
-`Thoughts`: 
+`Thoughts`: Nothing special, it's fine. I like the fact there are many libraries to help handle csv files.
