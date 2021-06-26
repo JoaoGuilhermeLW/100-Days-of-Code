@@ -31,6 +31,12 @@
 
 ### Day 05: June 25, 2021
 
-`Today's Progress`: I readed and understood about how to manipulate CSV files. 
+`Today's Progress`: I readed and understood about how to manipulate CSV files. I made a program to read a phone contact list csv and print the informations pretty.
 
 `Thoughts`: Nothing special, it's fine. I like the fact there are many libraries to help handle csv files.
+
+### Day 05: June 25, 2021
+
+`Today's Progress`: I did a phone scraper. As a headset lover, i decided to learn about some Ruby libraries and made a program to scrap my favorite website headset shop for phone informations (name and price) and save it to me.
+
+`Thoughts`: I needed a litle more of struggle on resolve some errors and execption, i got lost, readed tutorials, came back to life and its finally worked. 
