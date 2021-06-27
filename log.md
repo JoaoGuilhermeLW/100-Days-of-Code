@@ -35,8 +35,14 @@
 
 `Thoughts`: Nothing special, it's fine. I like the fact there are many libraries to help handle csv files.
 
-### Day 05: June 25, 2021
+### Day 06: June 26, 2021
 
 `Today's Progress`: I did a phone scraper. As a headset lover, i decided to learn about some Ruby libraries and made a program to scrap my favorite website headset shop for phone informations (name and price) and save it to me.
 
 `Thoughts`: I needed a litle more of struggle on resolve some errors and execption, i got lost, readed tutorials, came back to life and its finally worked. 
+
+### Day 07 June 27, 2021
+
+`Today's Progress`: I kept working on the phone scraper, because the website that i was scraping implemented some features to avoid scrapers scripts to scrap. In this case, the div.class name was "jss" plus a random number for each request. So, i had to think how to bypass it. I'm updating my code to do a regex search through jss+regex and verify if the .text contains the string "R$" to retreive the price.
+
+`Thoughts`: Using Ruby as a wrench for daily programming is softy and fun. I'm liking it.
