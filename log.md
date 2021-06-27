@@ -43,6 +43,6 @@
 
 ### Day 07 June 27, 2021
 
-`Today's Progress`: I kept working on the phone scraper, because the website that i was scraping implemented some features to avoid scrapers scripts to scrap. In this case, the div.class name was "jss" plus a random number for each request. So, i had to think how to bypass it. I'm updating my code to do a regex search through jss+regex and verify if the .text contains the string "R$" to retreive the price.
+`Today's Progress`: I kept working on the phone scraper, because the website that i was scraping implemented some features to avoid scrapers scripts to scrap. In this case, the div.class name was "jss" plus a random number for each request. So, i had to think how to bypass it. I'm updating my code to do a regex search through jss+regex and verify if the .text contains the string "R$" to retreive the price. Also, i started to read about database and how to implement with sqlite3. I think i will build a bank account system to transfer money between accounts, like pix in the next days.
 
 `Thoughts`: Using Ruby as a wrench for daily programming is softy and fun. I'm liking it.
