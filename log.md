@@ -49,7 +49,7 @@
 
 ### Day 08 June 28, 2021
 
-`Today's Progress`: i learned more about how to implement database in Ruby, creating new databases with sqlite3 framework and fetching some data.
+`Today's Progress`: i learned more about how to implement database in Ruby, creating new databases with sqlite3 framework and fetching some data. I started to code a bank account system.
 
 `Thoughts`: A friendly syntax to deal with.
 
