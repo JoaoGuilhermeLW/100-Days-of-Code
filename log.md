@@ -53,3 +53,8 @@
 
 `Thoughts`: A friendly syntax to deal with.
 
+### Day 09 June 29, 2021
+
+`Today's Progress`: I continued to implement the bank system, adding classes and methods.
+
+`Thoughts`: I wish i had more time to dive completely in Ruby study, but university is cutting my head off.
