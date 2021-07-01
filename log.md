@@ -64,3 +64,9 @@
 `Today's Progress`: Today i decided to read about semantic and syntax.
 
 `Thoughts`: It's cool.
+
+### Day 11 July 01, 2021
+
+`Today's Progress`:
+
+`Thoughts`:
