@@ -58,3 +58,9 @@
 `Today's Progress`: I continued to implement the bank system, adding classes and methods.
 
 `Thoughts`: I wish i had more time to dive completely in Ruby study, but university is cutting my head off.
+
+### Day 10 June 30, 2021
+
+`Today's Progress`: Today i decided to read about semantic and syntax.
+
+`Thoughts`: It's cool.
