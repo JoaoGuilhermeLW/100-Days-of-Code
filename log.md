@@ -68,5 +68,10 @@
 ### Day 11 July 01, 2021
 
 `Today's Progress`: I implemented some functionalities to my bank system and started to think about the business rules.
-
 `Thoughts`: I'm liking the syntax and how i feel while coding in Ruby.
+
+### Day 12 July 02, 2021
+
+`Today's Progress`: I readed about Error and Exceptions handling, iterators (again) and ranges. Coded a little bit at the bank system.
+
+`Thoughts`: I had never saw the '===' operator before, called case equality operator. Interesting.
