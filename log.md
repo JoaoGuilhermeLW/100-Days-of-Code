@@ -78,6 +78,6 @@
 
 ### Day 13 July 03, 2021
 
-`Today's Progress`: Tody, i readed some advanced topics in Ruby like web sockets, db and a introduction to Rails.
+`Today's Progress`: Today i readed some advanced topics in Ruby like web sockets, db and a introduction to Rails.
 
 `Thoughts`: Another step taken, let`s go.
