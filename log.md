@@ -75,3 +75,9 @@
 `Today's Progress`: I readed about Error and Exceptions handling, iterators (again) and ranges. Coded a little bit at the bank system.
 
 `Thoughts`: I had never saw the '===' operator before, called case equality operator. Interesting.
+
+### Day 13 July 03, 2021
+
+`Today's Progress`: Tody, i readed some advanced topics in Ruby like web sockets, db and a introduction to Rails.
+
+`Thoughts`: Another step taken, let`s go.
