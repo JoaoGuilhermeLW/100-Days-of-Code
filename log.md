@@ -81,3 +81,9 @@
 `Today's Progress`: Today i readed some advanced topics in Ruby like web sockets, db and a introduction to Rails.
 
 `Thoughts`: Another step taken, let`s go.
+
+### Day 14 July 04 2021
+
+`Today's Progress`: I just readed about compiler and watched videos.
+
+`Thoughts`: Resting my mind.
