@@ -82,8 +82,14 @@
 
 `Thoughts`: Another step taken, let`s go.
 
-### Day 14 July 04 2021
+### Day 14 July 04, 2021
 
 `Today's Progress`: I just readed about compiler and watched videos.
 
 `Thoughts`: Resting my mind.
+
+### Day 15 July 05, 2021
+
+`Today's Progress`: I was very busy with academic works today, so i just readed a little bit about hashes in Ruby.
+
+`Thoughts`: Nothing interesting.
