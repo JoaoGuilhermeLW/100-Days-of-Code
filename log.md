@@ -99,3 +99,9 @@
 `Today's Progress`: I readed about semantic and also readed a lot of code to learn new things.
 
 `Thoughts`: Keep studying.
+
+### Day 17 July 07, 2021
+
+`Today's Progress`: A friend of mine sent me a link to best practices in Ruby. So I started reading (it's pretty big lol)! It contains several topics about programming (of course), full of tricks and tips.
+
+`Thoughts`: Now i'm sure that is impossible to know everything about a language haha
