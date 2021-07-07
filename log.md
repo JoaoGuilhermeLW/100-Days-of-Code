@@ -93,3 +93,9 @@
 `Today's Progress`: I was very busy with academic works today, so i just readed a little bit about hashes in Ruby.
 
 `Thoughts`: Nothing interesting.
+
+### Day 16 July 06, 2021
+
+`Today's Progress`: I readed about semantic and also readed a lot of code to learn new things.
+
+`Thoughts`: Keep studying.
