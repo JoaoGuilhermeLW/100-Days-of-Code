@@ -102,6 +102,12 @@
 
 ### Day 17 July 07, 2021
 
-`Today's Progress`: A friend of mine sent me a link to best practices in Ruby. So I started reading (it's pretty big lol)! It contains several topics about programming (of course), full of tricks and tips.
+`Today's Progress`: A friend of mine sent me a link to best practices in Ruby. So I started reading (it's pretty big lol)! It contains several topics about programming (of course), full of tricks and tips. I learned about two Ruby operators very interesting: &&= and ||=.
 
 `Thoughts`: Now i'm sure that is impossible to know everything about a language haha
+
+### Day 18 July 08, 2021
+
+`Today's Progress`:
+
+`Thoughts`:
