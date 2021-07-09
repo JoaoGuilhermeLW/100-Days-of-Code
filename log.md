@@ -114,6 +114,6 @@
 
 ### Day 19 July 09, 2021
 
-`Today's Progress`: I've done some exercises to pratice code. I did another Advent of Code's challenge.
+`Today's Progress`: I've done some exercises to pratice code. I did another Advent of Code's challenge and readed about Duck Typing and Syntactic Sugar in Ruby.
 
 `Thoughts`: Nice, cool, very nice.
