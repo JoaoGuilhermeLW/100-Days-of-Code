@@ -108,6 +108,6 @@
 
 ### Day 18 July 08, 2021
 
-`Today's Progress`:
+`Today's Progress`: Today was my first day as intern in a software development company. I did the Advent of Code's first challenge in Ruby!
 
-`Thoughts`:
+`Thoughts`: i'm so exciting with everything. I can't wait to start Rails and get deeper.
