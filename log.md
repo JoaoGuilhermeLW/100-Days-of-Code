@@ -111,3 +111,9 @@
 `Today's Progress`: Today was my first day as intern in a software development company. I did the Advent of Code's first challenge in Ruby!
 
 `Thoughts`: i'm so exciting with everything. I can't wait to start Rails and get deeper.
+
+### Day 19 July 09, 2021
+
+`Today's Progress`: I've done some exercises to pratice code. I did another Advent of Code's challenge.
+
+`Thoughts`: Nice, cool, very nice.

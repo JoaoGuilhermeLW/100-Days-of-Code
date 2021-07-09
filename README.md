@@ -4,7 +4,7 @@ The challenge to code at least one hour every day for the next 100 days.
 
 Challenge being fulfilled by: João Guilherme
 
-![progress](https://progress-bar.dev/18/ "progress")
+![progress](https://progress-bar.dev/19/ "progress")
 
 * [Log - My path](log.md)
 
@@ -17,6 +17,6 @@ I decided challenge myself to learn a new programming language and framework. I'
 
 First i will cover the basic of Ruby. So, i'm going deep into Rails.
 
-```Ruby
+```ruby
 puts "Don't be discouraged."
 ```
