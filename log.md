@@ -117,3 +117,9 @@
 `Today's Progress`: I've done some exercises to pratice code. I did another Advent of Code's challenge and readed about Duck Typing and Syntactic Sugar in Ruby.
 
 `Thoughts`: Nice, cool, very nice.
+
+### Day 20 July 10, 2021
+
+`Today's Progress`:
+
+`Thoughts`:
