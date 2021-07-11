@@ -120,6 +120,6 @@
 
 ### Day 20 July 10, 2021
 
-`Today's Progress`:
+`Today's Progress`: I readed a little bit about Web in Ruby.
 
-`Thoughts`:
+`Thoughts`: Just adding knowledge.
