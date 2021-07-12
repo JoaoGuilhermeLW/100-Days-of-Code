@@ -123,3 +123,9 @@
 `Today's Progress`: I readed a little bit about Web in Ruby.
 
 `Thoughts`: Just adding knowledge.
+
+### Day 21 July 12, 2021
+
+`Today's Progress`: I started to learn Rails. Let the chaos begin.
+
+`Thoughts`: 
