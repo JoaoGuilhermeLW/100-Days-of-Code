@@ -126,6 +126,6 @@
 
 ### Day 21 July 12, 2021
 
-`Today's Progress`: I started to learn Rails. Let the chaos begin.
+`Today's Progress`: I built a big Ruby guide with the mainly topics summarized until now and tomorrow i will start Rails. Let the chaos begin.
 
-`Thoughts`: 
+`Thoughts`: More knowledgment, please.
