@@ -129,3 +129,9 @@
 `Today's Progress`: I built a big Ruby guide with the mainly topics summarized until now and tomorrow i will start Rails. Let the chaos begin.
 
 `Thoughts`: More knowledgment, please.
+
+### Day 22 July 13, 2021
+
+`Today's Progress`: I just started the introduction to Rails. Too much university work
+
+`Thoughts`: Moving on.
