@@ -135,3 +135,9 @@
 `Today's Progress`: I just started the introduction to Rails. Too much university work
 
 `Thoughts`: Moving on.
+
+### Day 23 July 14, 2021
+
+`Today's Progress`: I already installed Rails and started demo server to interact with. Also readed about metaprogramming in Ruby.
+
+`Thoughts`: Easier to install than Django =P
