@@ -141,3 +141,11 @@
 `Today's Progress`: I already installed Rails and started demo server to interact with. Also readed about metaprogramming in Ruby.
 
 `Thoughts`: Easier to install than Django =P
+
+### Day 24 July 15, 2021
+
+`Today's Progress`: I forgot to push my daily report to git, because it was a big day. I refactored my Advent of Code's day 1 code with my company team. Learned new things like the operator &:. Also, readed more about Rails.
+
+`Thoughts`: Tired and glad.
+
+### 
