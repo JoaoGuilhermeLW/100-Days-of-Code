@@ -148,4 +148,8 @@
 
 `Thoughts`: Tired and glad.
 
-### 
+### Day 25 July 16, 2021
+
+`Today's Progress`: My last day doing university works (finally!). I readed few topics about Ruby just to stay connect and do not lose touch.
+
+`Thoughts`: Looking forward to spending the day studying ruby.
