@@ -153,3 +153,9 @@
 `Today's Progress`: My last day doing university works (finally!). I readed few topics about Ruby just to stay connect and do not lose touch.
 
 `Thoughts`: Looking forward to spending the day studying ruby.
+
+### Day 26 July 17, 2021
+
+`Today's Progress`: I readed a very begging introduction about MVC framework in Rails.
+
+`Thoughts`: Fly me to the moon, let me play among the stars.
