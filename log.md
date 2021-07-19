@@ -159,3 +159,5 @@
 `Today's Progress`: I readed a very begging introduction about MVC framework in Rails.
 
 `Thoughts`: Fly me to the moon, let me play among the stars.
+
+### Day 27 July 18, 2021
