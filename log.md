@@ -161,3 +161,7 @@
 `Thoughts`: Fly me to the moon, let me play among the stars.
 
 ### Day 27 July 18, 2021
+
+`Today's Progress`: ActiveRecord provides a range of programming techniques and shortcuts for manipulating data from an SQL database. ActionController and ActionView provides facilities for manipulating and displaying that data. Rails ties it all together.
+
+`Thoughts`: This part is similar to Django. Same principle.
