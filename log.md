@@ -165,3 +165,16 @@
 `Today's Progress`: ActiveRecord provides a range of programming techniques and shortcuts for manipulating data from an SQL database. ActionController and ActionView provides facilities for manipulating and displaying that data. Rails ties it all together.
 
 `Thoughts`: This part is similar to Django. Same principle.
+
+### Day 28 July 19, 2021
+
+`Today's Progress`: What i've learned today:
+*  The controllers subdirectory is where Rails looks to find controller classes. A controller handles a web request from the user.
+
+* The views subdirectory holds the display templates to fill in with data from our application, convert to HTML, and return to the user's browser.
+
+* The models subdirectory holds the classes that model and wrap the data stored in our application's database. In most frameworks, this part of the application can grow pretty messy, tedious, verbose, and error-prone. Rails makes it dead simple.
+
+* The helpers subdirectory holds any helper classes used to assist the model, view, and controller classes. This helps to keep the model, view, and controller code small, focused, and uncluttered.
+
+`Thoughts`: Similar to Django with few differences.
