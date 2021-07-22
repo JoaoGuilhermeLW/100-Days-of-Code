@@ -178,3 +178,9 @@
 * The helpers subdirectory holds any helper classes used to assist the model, view, and controller classes. This helps to keep the model, view, and controller code small, focused, and uncluttered.
 
 `Thoughts`: Similar to Django with few differences.
+
+### Day 29 July 22, 2021
+
+`Today's Progress`: Learned about models validation in Rails, installed Postgresql and configure it.
+
+`Thoughts`: New world is open.
