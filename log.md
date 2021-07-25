@@ -190,3 +190,9 @@
 `Today's Progress`: A nice day full of knowledge. I built my Rails application, coded the models, controllers and views files for my library system haha. Learned about ERB and how the flow works.
 
 `Thoughts`: Hard but satisfy.
+
+### Day 31 July 24, 2021
+
+`Today's Progress`: 
+
+`Thoughts`:
