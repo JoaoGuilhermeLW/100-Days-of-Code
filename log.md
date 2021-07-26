@@ -191,8 +191,8 @@
 
 `Thoughts`: Hard but satisfy.
 
-### Day 31 July 24, 2021
+### Day 31 July 25, 2021
 
-`Today's Progress`: 
+`Today's Progress`: I stylized my library view with some css. Learned few things like linked tags and how to standard a piece of the page.
 
-`Thoughts`:
+`Thoughts`: Nil.
