@@ -196,3 +196,9 @@
 `Today's Progress`: I stylized my library view with some css. Learned few things like linked tags and how to standard a piece of the page.
 
 `Thoughts`: Nil.
+
+### Day 32 July 26, 2021
+
+`Today's Progress`: I made a new Rails application called blog. I builded some routes, controllers, models and views. Learned some methods like "link_to".
+
+`Thoughts`: Rails helps a lot.
