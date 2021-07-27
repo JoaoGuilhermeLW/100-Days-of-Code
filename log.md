@@ -202,3 +202,9 @@
 `Today's Progress`: I made a new Rails application called blog. I builded some routes, controllers, models and views. Learned some methods like "link_to".
 
 `Thoughts`: Rails helps a lot.
+
+### Day 33 July 27, 2021
+
+`Today's Progress`: I don't even know where to start. Well, today was a full day of learning. I coded the advent of code challenge 2 and my partners helped me to refact it. Learned hwo to use map and regex, &: operator to resume a block of code. Also, coded the create article func of my Rails application and learned about forms and some others functions that Rails implements to help and save writing.
+
+`Thoughts`: Ruby is a language that really implements sugar syntax.
