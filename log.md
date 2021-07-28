@@ -208,3 +208,9 @@
 `Today's Progress`: I don't even know where to start. Well, today was a full day of learning. I coded the advent of code challenge 2 and my partners helped me to refact it. Learned hwo to use map and regex, &: operator to resume a block of code. Also, coded the create article func of my Rails application and learned about forms and some others functions that Rails implements to help and save writing.
 
 `Thoughts`: Ruby is a language that really implements sugar syntax.
+
+### Day 34 July 28, 2021
+
+`Today's Progress`: Today i finished my Rails application! I implemented and learned about authentication, concerns, forms, refactored views rendering templates, status, etc. A big day of knowledge.
+
+`Thoughts`: Rails helps a lot simplifing and save a lot of code.
