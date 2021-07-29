@@ -214,3 +214,9 @@
 `Today's Progress`: Today i finished my Rails application! I implemented and learned about authentication, concerns, forms, refactored views rendering templates, status, etc. A big day of knowledge.
 
 `Thoughts`: Rails helps a lot simplifing and save a lot of code.
+
+### Day 35 July 29, 2021
+
+`Today's Progress`: I coded the Advent of Code day 3 in Ruby. Tried to use the max numbers of OOP and Functional program concepts.
+
+`Thoughts`: I got stucked in the earlier, so was kind of difficult.
