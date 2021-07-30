@@ -220,3 +220,9 @@
 `Today's Progress`: I coded the Advent of Code day 3 in Ruby. Tried to use the max numbers of OOP and Functional program concepts.
 
 `Thoughts`: I got stucked in the earlier, so was kind of difficult.
+
+### Day 36 July 30, 2021
+
+`Today's Progress`: I finished code the Advent of Code day 3 in Ruby and will start to read more about Rails.
+
+`Thoughts`: It took more time than i expected.
