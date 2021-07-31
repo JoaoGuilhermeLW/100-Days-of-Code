@@ -226,3 +226,9 @@
 `Today's Progress`: I finished code the Advent of Code day 3 in Ruby and will start to read more about Rails.
 
 `Thoughts`: It took more time than i expected.
+
+### Day 37 July , 2021
+
+`Today's Progress`: 
+
+`Thoughts`: 
