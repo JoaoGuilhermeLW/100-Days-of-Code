@@ -232,3 +232,9 @@
 `Today's Progress`: I started to code the day 04 advent of code challenge. Increasing and praticing my skills.
 
 `Thoughts`: Nothing else
+
+### Day 38 August 03, 2021
+
+`Today's Progress`: I started my journey to learn tests in Rails. Introduced rspec and implemented a usage simulation visiting index page.
+
+`Thoughts`: Sugar syntax.
