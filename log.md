@@ -227,8 +227,8 @@
 
 `Thoughts`: It took more time than i expected.
 
-### Day 37 July , 2021
+### Day 37 August 02, 2021
 
-`Today's Progress`: 
+`Today's Progress`: I started to code the day 04 advent of code challenge. Increasing and praticing my skills.
 
-`Thoughts`: 
+`Thoughts`: Nothing else
