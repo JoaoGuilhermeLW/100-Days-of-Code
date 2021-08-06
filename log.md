@@ -238,3 +238,21 @@
 `Today's Progress`: I started my journey to learn tests in Rails. Introduced rspec and implemented a usage simulation visiting index page.
 
 `Thoughts`: Sugar syntax.
+
+### Day 39 August 04, 2021
+
+`Today's Progress`: I fought to code the aoc day 04, yet...
+
+`Thoughts`: Crashing my mind.
+
+### Day 40 August 05, 2021
+
+`Today's Progress`: I learned new things, like iterate do-end in some string and array methods.
+
+`Thoughts`: Sugar.
+
+### Day 41 August 06, 2021
+
+`Today's Progress`: I finally completed the aoc day 04 part 1 and it's time to get some rest. Sextou!
+
+`Thoughts`: I think i improved my coding and thinking skills.
