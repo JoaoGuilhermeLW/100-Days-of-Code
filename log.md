@@ -259,6 +259,6 @@
 
 ### Day 42 August 11, 2021
 
-`Today's Progress`: I losted my notebook charger and that was sad because i lost few days of 100 days of code. But now i'm ok. Today, i started to learn how to use Minitest and begun to write tests for my aoc codes.
+`Today's Progress`: I lost my notebook charger and that was sad because i lost few days of 100 days of code. But now i'm ok. Today, i started to learn how to use Minitest and begun to write tests for my aoc codes.
 
 `Thoughts`: Rspec or Minitest?
