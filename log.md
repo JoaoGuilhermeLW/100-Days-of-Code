@@ -262,3 +262,9 @@
 `Today's Progress`: I lost my notebook charger and that was sad because i lost few days of 100 days of code. But now i'm ok. Today, i started to learn how to use Minitest and begun to write tests for my aoc codes.
 
 `Thoughts`: Rspec or Minitest?
+
+### Day 43 August 18, 2021
+
+`Today's Progress`: I went in vacations and needed few days to relax. Today i got stucked in an ruby error at my AoC day 4 code. But, learned about "all?" and "send" ruby methods. Very useful.
+
+`Thoughts`: DRY and Elegance.
