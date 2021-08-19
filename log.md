@@ -268,3 +268,9 @@
 `Today's Progress`: I went in vacations and needed few days to relax. Today i got stucked in an ruby error at my AoC day 4 code. But, learned about "all?" and "send" ruby methods. Very useful.
 
 `Thoughts`: DRY and Elegance.
+
+### Day 44 August 19, 2021
+
+`Today's Progress`: I kept struggling on AoC day 04, was able to finish it and started day 05 where i implemented some imperative methods just to begin and then refact with classes and tests.
+
+`Thoughts`: Today was more mathician than programming.
