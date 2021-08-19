@@ -265,7 +265,7 @@
 
 ### Day 43 August 18, 2021
 
-`Today's Progress`: I went in vacations and needed few days to relax. Today i got stucked in an ruby error at my AoC day 4 code. But, learned about "all?" and "send" ruby methods. Very useful.
+`Today's Progress`: I went on vacations and needed few days to relax. Today i got stucked in an ruby error at my AoC day 4 code. But, learned about "all?" and "send" ruby methods. Very useful.
 
 `Thoughts`: DRY and Elegance.
 
