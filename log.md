@@ -274,3 +274,7 @@
 `Today's Progress`: I kept struggling on AoC day 04, was able to finish it and started day 05 where i implemented some imperative methods just to begin and then refact with classes and tests.
 
 `Thoughts`: Today was more mathician than programming.
+
+### Few days ater... Got a Job!
+
+### Finished the challenge with an answome backgroud and experience. So happy to get a job and dive into the software devolpment world!!
